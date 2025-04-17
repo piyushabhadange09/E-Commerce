@@ -1,0 +1,20 @@
+1)npm i express
+2)npm i nodemon
+3)npm i dotenv
+4)npm i morgan-->tells which api hits on console.
+5)npm i mongoose@6.10.0
+6)npm i bcrypt
+7)npm i jsonwebtoken
+8)npm i bootstrap@5.3.3
+9)npm i react-router-dom
+10)npm i react-helmet
+11)npm i react-hot-toast
+12)npm i axios
+13)npm i morgan
+14)npm i concurrently
+15)npm i cors
+16)npm i slugify
+17)npm install express-formidable-->for uploading photo on database
+18)npm i braintree --> for payment gateway
+19)npm i braintree-web-drop-in-react-->for using brain tree in react
+20)npm i moment-->to  deal with date and time in react

@@ -1,0 +1,4 @@
+#Steps to create react-app===> 
+1)npx create-react-app client
+2)cd client
+3)to run client-->npm start
